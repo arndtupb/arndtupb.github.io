@@ -4,7 +4,7 @@ This site is now authored with Quarto.
 
 ## Edit homepage content
 
-1. Update `/home/runner/work/arndtupb.github.io/arndtupb.github.io/index.qmd`.
+1. Update `index.qmd`.
 2. Render HTML with:
 
    ```bash
