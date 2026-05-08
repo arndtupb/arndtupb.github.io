@@ -1,5 +1,5 @@
 ---
-title: "Teaching | Assistant Professor of Accounting"
+title: " "
 format:
   html:
     title-block: false
@@ -15,7 +15,7 @@ format:
 ::: {.hero__content}
 <p class="eyebrow">Teaching</p>
 
-# Assistant Professor of Accounting
+# Teaching Materials 
 
 ::: {.lead}
 This site is dedicated to teaching materials, including course details and downloadable slides created in Quarto and rendered to HTML.
@@ -37,7 +37,7 @@ This site is dedicated to teaching materials, including course details and downl
 
 Slides are authored with Quarto markdown and shared as HTML pages.
 
-- [Financial Accounting: Week 1 Slides](slides/financial-accounting-week-1.html)
+- [Financial Accounting: Week 1 Slides](slides/intro.html)
 - [Managerial Accounting: Cost Behavior Slides](slides/managerial-accounting-cost-behavior.html)
 - [Research Seminar: Methods Overview](slides/research-seminar-methods-overview.html)
 :::
