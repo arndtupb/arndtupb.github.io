@@ -4,5 +4,6 @@ project:
 
 format:
   html:
+    theme: rsm.scss
     css: styles.css
     toc: false

@@ -1,0 +1,20 @@
+logo: 
+  medium: ./pic/Erasmus.svg
+
+color:
+  palette:
+    navy: "#171c54"
+    blue: "#2871ad"
+    pink: "#b62d7a"
+    orange: "#ee7656"
+    white: "#ffffff"
+    muted: "#898b8c"
+  foreground: navy
+  background: white
+  primary: blue
+
+typography:
+  fonts:
+    - family: Arial
+  base: Arial
+  headings: Arial

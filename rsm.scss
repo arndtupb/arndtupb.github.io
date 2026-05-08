@@ -1,0 +1,117 @@
+/*-- scss:defaults --*/
+
+$body-bg: #fff;
+$body-color: #171c54;
+$link-color: #2871ad;
+$text-muted: #898b8c;
+$link-color-hover: #2871ad;
+$selection-bg: #2871ad;
+$selection-color: $body-bg;
+$light-bg-text-color: #171c54;
+$light-bg-link-color: #2871ad;
+$light-bg-code-color: #2871ad;
+$dark-bg-text-color: #fff;
+$dark-bg-link-color: #fff;
+$dark-bg-code-color: #b62d7a;
+$accent: #171c54;
+$jet: #131516;
+
+/*-- scss:rules --*/
+
+// Heading styles
+
+h1 {
+  font-weight: bold;
+  color: #171c54;
+}
+
+h2 {
+  font-weight: bold;
+  color: #171c54;
+}
+
+h3 {
+  font-weight: lighter;
+  color: #898b8c;
+}
+
+h4 {
+  color: #ee7656;
+  font-weight: normal;
+  font-style: italic;
+}
+
+// Button link environment
+
+.button {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  background-color: $accent;
+  border: 1px solid $accent;
+  color: #fff !important;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: all 0.2s ease-in-out;
+}
+
+.button:hover {
+  background-color: #2871ad;
+  border-color: #2871ad;
+}
+
+.button::before {
+  content: "▶";
+  margin-right: 5px;
+}
+
+// Highlighting
+
+.fg {
+  color: var(--col, #b62d7a);
+}
+
+.bg {
+  color: var(--col, #fff);
+  background-color: var(--backcol, #b62d7a);
+  padding: 0.1em;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+// Table/figure image container
+// See: https://lrberge.github.io/fixest/articles/etable_new_features.html
+
+.etable {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1em 0;
+}
+
+.etable img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+// Callouts
+
+.callout-important {
+  width: 80%;
+  border-color: #171c54 !important;
+}
+
+.callout-note {
+  width: 80%;
+  border-color: #171c54 !important;
+}
+

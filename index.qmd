@@ -25,21 +25,19 @@ This site is dedicated to teaching materials, including course details and downl
 
 ::: {.container}
 ::: {.card}
-## Current Courses
+## Accounting, Analysis, and Governance in Complex Deals 
 
-- Financial Accounting
-- Managerial Accounting
-- Seminar in Accounting Research
+tbd
+
 :::
 
 ::: {.card}
-## Course Slides
+## Week One
 
 Slides are authored with Quarto markdown and shared as HTML pages.
 
-- [Financial Accounting: Week 1 Slides](slides/intro.html)
-- [Managerial Accounting: Cost Behavior Slides](slides/managerial-accounting-cost-behavior.html)
-- [Research Seminar: Methods Overview](slides/research-seminar-methods-overview.html)
+- [Introduction](slides/bmme303/intro.html){target="_blank"}
+- ...
 :::
 
 ::: {.card}
@@ -48,3 +46,5 @@ Slides are authored with Quarto markdown and shared as HTML pages.
 For course-related questions, please contact me through the university email listed in the course syllabus.
 :::
 :::
+
+<hr />
