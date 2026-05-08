@@ -1,0 +1,8 @@
+project:
+  render:
+    - index.qmd
+
+format:
+  html:
+    css: styles.css
+    toc: false

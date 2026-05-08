@@ -1,0 +1,50 @@
+---
+title: "Teaching | Assistant Professor of Accounting"
+format:
+  html:
+    title-block: false
+    include-in-header:
+      text: |
+        <meta
+          name="description"
+          content="Teaching page for an Assistant Professor of Accounting."
+        />
+---
+
+::: {.hero}
+::: {.hero__content}
+<p class="eyebrow">Teaching</p>
+
+# Assistant Professor of Accounting
+
+::: {.lead}
+This site is dedicated to teaching materials, including course details and downloadable slides created in Quarto and rendered to HTML.
+:::
+:::
+:::
+
+::: {.container}
+::: {.card}
+## Current Courses
+
+- Financial Accounting
+- Managerial Accounting
+- Seminar in Accounting Research
+:::
+
+::: {.card}
+## Course Slides
+
+Slides are authored with Quarto markdown and shared as HTML pages.
+
+- [Financial Accounting: Week 1 Slides](slides/financial-accounting-week-1.html)
+- [Managerial Accounting: Cost Behavior Slides](slides/managerial-accounting-cost-behavior.html)
+- [Research Seminar: Methods Overview](slides/research-seminar-methods-overview.html)
+:::
+
+::: {.card}
+## Contact
+
+For course-related questions, please contact me through the university email listed in the course syllabus.
+:::
+:::
