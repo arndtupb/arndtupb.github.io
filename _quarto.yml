@@ -1,23 +1,9 @@
 project:
-  type: website
-  output-dir: docs
   render:
     - index.qmd
-    - kickoff.qmd
 
 format:
   html:
     theme: rsm.scss
     css: styles.css
     toc: false
-
-
-navbar:
-  background: dark
-  search: true
-  left:
-    - text: "Home"
-      href: index.qmd
-  right:
-    - text: "W1"
-      href: kickoff.qmd

@@ -108,7 +108,7 @@ Check [timetables.eur.nl](https://timetables.eur.nl/link?timetables.0.key=BMME30
 
 Slides are authored with Quarto markdown and shared as HTML pages.
 
-- [Introduction](slides/bmme303/intro.html){target="_blank"}
+- [Introduction](/courses/54132/files/intro.html){target="_blank"}
 - ...
 :::
 
