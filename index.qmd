@@ -77,14 +77,12 @@ I expect interactive discussions to form the basis of our sessions, requiring st
   <p style="color: #171c54;"><strong>Mandatory attendance applies to guest lectures. These sessions are a core component of the course and provide essential content that cannot be replaced through alternative assignments or readings. Students who miss a guest lecture will be ineligible to participate in the corresponding weekly assignment (see assessment element "Assessment - Assignment"), resulting in a score of 0% for that week's assignment. Note that (i) assignments in total account for 20% of the final grade and (ii) students must pass all assessment elements to pass the course. Absences from guest lectures will thus directly impact your overall performance.</strong></p>
 </div>
 
-<br/>
+<div style="height: 0.5em;"></div>
 
 Tentative sessions for ***Guest Lectures with Mandatory Attendance***
 
-| **Date** | **Guest From** | **Topic** |
-|----------|-----------------|-----------------|
-| May 26   | McKinsey & Company   |  Valuation   |
-| June 16   | Boston Consulting Group   | Synergies   |
+- May 26, McKinsey & Company, Valuation   
+- June 16, Boston Consulting Group, Synergies   
 
 ::: 
 
