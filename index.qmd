@@ -28,13 +28,9 @@ engine: knitr
 Last Update: `r format(Sys.Date(), "%B %d")`
 
 ::: lead
-With Canvas at EUR currentyl not available, we will use this page to share important information on the course, including the slides and other materials. Please check this page regularly for updates and announcements.
+With Canvas at EUR currentyl not available, we will use this page to share *some* important information on the course, including the slides and other materials. Please check this page regularly for updates and announcements.
 
 :::
-
-
-<hr />
-
 
 
 ::: {.container}
@@ -99,17 +95,21 @@ Check [timetables.eur.nl](https://timetables.eur.nl/link?timetables.0.key=BMME30
 
 - Note that you must pass all assessment elements in order to pass the course. No carry-overs!   
 
-- Expectations? Check the [assessment rubric](https://canvas.eur.nl/courses/54132/pages/01c-assessment-rubric){target="_blank"} for detailed descriptions of expected performance at each level (Beginner, Developing, Accomplished, Exemplary) for every course learning goal
+- Expectations? Check the [assessment rubric](/courses/54132/files/page_rubric.html){target="_blank"} for detailed descriptions of expected performance at each level (Beginner, Developing, Accomplished, Exemplary) for every course learning goal
 
 :::
 
 ::: {.card}
 ## Week One
 
-Slides are authored with Quarto markdown and shared as HTML pages.
+You can download the slides as HTML and PDF. Note that slides in PDF format often lose some features (e.g., embedded tabs, videos, etc.) and are thus not the preferred format. 
 
-- [Introduction](/courses/54132/files/intro.html){target="_blank"}
-- ...
+- **Slides: Kickoff** [HTML](/courses/54132/files/intro.html){target="_blank"} and [PDF](/courses/54132/files/intro.pdf){target="_blank"}
+
+- **Slides: Transactions** [HTML](/courses/54132/files/intro_transactions.html){target="_blank"} and [PDF](/courses/54132/files/intro_transactions.pdf){target="_blank"}
+
+- **Slides: Governance** [HTML](/courses/54132/files/intro_governance.html){target="_blank"} and [PDF](/courses/54132/files/intro_governance.pdf){target="_blank"}
+
 :::
 
 
