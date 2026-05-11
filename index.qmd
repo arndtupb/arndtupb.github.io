@@ -10,6 +10,7 @@ format:
           content="Teaching page for an Assistant Professor of Accounting."
         />
 engine: knitr
+bibliography: references.bib
 ---
 
 ::: {.hero}
@@ -76,6 +77,15 @@ I expect interactive discussions to form the basis of our sessions, requiring st
   <p style="color: #171c54;"><strong>Mandatory attendance applies to guest lectures. These sessions are a core component of the course and provide essential content that cannot be replaced through alternative assignments or readings. Students who miss a guest lecture will be ineligible to participate in the corresponding weekly assignment (see assessment element "Assessment - Assignment"), resulting in a score of 0% for that week's assignment. Note that (i) assignments in total account for 20% of the final grade and (ii) students must pass all assessment elements to pass the course. Absences from guest lectures will thus directly impact your overall performance.</strong></p>
 </div>
 
+<br/>
+
+Tentative sessions for ***Guest Lectures with Mandatory Attendance***
+
+| **Date** | **Guest From** | **Topic** |
+|----------|-----------------|-----------------|
+| May 26   | McKinsey & Company   |  Valuation   |
+| June 16   | Boston Consulting Group   | Synergies   |
+
 ::: 
 
 ::: {.card}
@@ -106,18 +116,30 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 
 - **Slides: Kickoff** [HTML](/courses/54132/files/intro.html){target="_blank"} and [PDF](/courses/54132/files/intro.pdf){target="_blank"}
 
-- **Slides: Transactions** [HTML](/courses/54132/files/intro_transactions.html){target="_blank"} and [PDF](/courses/54132/files/intro_transactions.pdf){target="_blank"}
+- **Slides: Transactions** [HTML](/courses/54132/files/intro_transactions.html){target="_blank"} and [PDF](/courses/54132/files/intro_transactions.pdf){target="_blank"} & **FAQ** on Reading [Organizational Charts](/courses/54132/files/orga_chart.html){target="_blank"}
 
 - **Slides: Governance** [HTML](/courses/54132/files/intro_governance.html){target="_blank"} and [PDF](/courses/54132/files/intro_governance.pdf){target="_blank"}
 
 :::
 
 
+::: {.card}
+## Literature 
 
+- While there is no single literature source for the course, the following books are used as key reference materials:
 
+  - @depamphilis2021mergers covers a wide range of topics (2019 version electronically available at [EUR](https://eur.on.worldcat.org/oclc/1124929442){target="_blank"})
 
+  - @koller2010valuation is a classic in the field of valuation (2020/7th version electronically available at [EUR](https://learning.oreilly.com/library/view/valuation-7th-edition/9781119610885/){target="_blank"})
 
+- Additionally, academic articles are used to illustrate the topics covered in the course and are exam-relevant (see slides)
 
+*Reference List*
+
+::: {#refs}
+:::
+
+:::
 
 
 <hr />
