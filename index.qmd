@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "\u200B"
 format:
   html:
     title-block: false
@@ -9,25 +9,97 @@ format:
           name="description"
           content="Teaching page for an Assistant Professor of Accounting."
         />
+engine: knitr
 ---
 
 ::: {.hero}
 ::: {.hero__content}
-<p class="eyebrow">Teaching</p>
+<p class="eyebrow">Arndt Weinrich | Teaching</p>
 
-# Teaching Materials 
 
-::: {.lead}
-This site is dedicated to teaching materials, including course details and downloadable slides created in Quarto and rendered to HTML.
+<p style="text-align: center"> <img src="/courses/54132/files/101696888.svg" width="75%" height="80"></p>
+
+<div style="background-color: #171c54; color: white; padding: 10px;"> </div>
+
+<br />
+
+# <span style="color: #171c54;">Accounting, Analysis and Governance in Complex Deals</span>
+
+Last Update: `r format(Sys.Date(), "%B %d")`
+
+::: lead
+With Canvas at EUR currentyl not available, we will use this page to share important information on the course, including the slides and other materials. Please check this page regularly for updates and announcements.
+
 :::
-:::
-:::
+
+
+<hr />
+
+
 
 ::: {.container}
 ::: {.card}
-## Accounting, Analysis, and Governance in Complex Deals 
+## Course Description
 
-tbd
+[Osiris/Sqill](https://eur.sqill.it/reports/163f2c25-9c25-41e4-bd81-8c1b9c3d667c){target="_blank"} contains important information on *Accounting, Analysis and Governance in Complex Deals* (BMME303). Please read all information carefully! Here's a sneak preview of the course description:
+
+This course integrates accounting, financial analysis, and governance, providing students with advanced skills in understanding, assessing, and executing a variety of different transaction types, such as M&A, reorganizations, and other complex deals. Since such transactions often substantially transform businesses, understanding how to analyze and navigate these disruptions is essential for any professional involved in them.
+:::
+
+::: {.card}
+## Learning Objectives 
+- Understand how (financial) information creates and resolves conflicts between business leaders, oversight bodies, and other stakeholders throughout transactions.
+
+- Critically assess complex multi-type and multi-source information in transaction-related valuations and decisions.
+
+- Analyze the complex regulatory environment, including disclosure mandates, surrounding a variety of transaction types.
+
+- Apply regulatory risk assessment frameworks, including commercial and tax due diligence, to transactions.
+
+- Reflect on competencies in accounting, analysis, and governance acquired in other courses throughout the MSc programme to navigate complex deals.
+:::
+
+
+
+::: {.card}
+## Course Instructor</span>
+
+**Arndt Weinrich** | Assistant Professor of Accounting | [weinrich@rsm.nl](mailto:weinrich@rsm.nl) | [RSM website](https://www.rsm.nl/people/arndt-weinrich/){target="_blank"}
+
+:::
+
+::: {.card}
+## Instructional Methods 
+
+The course consists of **11 sessions** that combine elements of workshops and lectures. 
+
+I expect interactive discussions to form the basis of our sessions, requiring students to be prepared, to reflect on previous input, and to actively engage with each other. Therefore, no livestreams or recordings are offered.
+
+<div style="border-left: 4px solid #b62d7a; background-color: #C7C8CA; padding: 10px; margin: 10px 0;">
+  <h4 style="margin-top: 0; color: #b62d7a;">Mandatory Attendance</h4>
+  <p style="color: #171c54;"><strong>Mandatory attendance applies to guest lectures. These sessions are a core component of the course and provide essential content that cannot be replaced through alternative assignments or readings. Students who miss a guest lecture will be ineligible to participate in the corresponding weekly assignment (see assessment element "Assessment - Assignment"), resulting in a score of 0% for that week's assignment. Note that (i) assignments in total account for 20% of the final grade and (ii) students must pass all assessment elements to pass the course. Absences from guest lectures will thus directly impact your overall performance.</strong></p>
+</div>
+
+::: 
+
+::: {.card}
+## Schedule 
+
+Check [timetables.eur.nl](https://timetables.eur.nl/link?timetables.0.key=BMME303&timetables.0.type=module&timetables.0.source=2025&timetables.1.key=BMME303_2025&timetables.1.type=timeedit_course&timetables.1.source=TimeEdit&ignoreEmpty=true&ignoreNotFound=true&view=month){target="_blank"} for an overview of appointments and room/lecture hall allocations
+
+::: 
+
+::: {.card}
+
+## Mixed Form Assessment 
+
+- "80% Element" &rarr; Final Exam (closed book) using Chromebook and Ans software
+
+- "20% Element" &rarr; Assignments (think of weekly quizzes, open questions, and other deliverables, such as case solutions) throughout the course (may include peer feedback)
+
+- Note that you must pass all assessment elements in order to pass the course. No carry-overs!   
+
+- Expectations? Check the [assessment rubric](https://canvas.eur.nl/courses/54132/pages/01c-assessment-rubric){target="_blank"} for detailed descriptions of expected performance at each level (Beginner, Developing, Accomplished, Exemplary) for every course learning goal
 
 :::
 
@@ -40,17 +112,18 @@ Slides are authored with Quarto markdown and shared as HTML pages.
 - ...
 :::
 
-::: {.card}
-## Contact
 
-For course-related questions, please contact me through the university email listed in the course syllabus.
-:::
-:::
+
+
+
+
+
+
 
 <hr />
 
 <p style="text-align: center;"><span style="color: #808080;"><em>Accounting, Analysis and Governance in Complex Deals</em></span></p>
 
-<p style="text-align: center"> <img src="/pics/Erasmus.svg" width="200" height="80"></p>
+<p style="text-align: center"> <img src="/courses/54132/files/101696886.svg" width="200" height="80"></p>
 
 <br/> 
