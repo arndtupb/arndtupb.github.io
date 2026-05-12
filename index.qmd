@@ -108,7 +108,16 @@ Check [timetables.eur.nl](https://timetables.eur.nl/link?timetables.0.key=BMME30
 :::
 
 ::: {.card}
-## Week One
+## [Canvas]{.bg}
+
+- [**Canvas is currently unavailable at EUR**]{.fg} $\rightarrow$ see this live update blog by [EUR IT](https://my.eur.nl/en/eur-employee/news/update-ms-teams-and-ans-are-being-made-available-alternatives-canvas?utm_source=Update_11_mei_2026&utm_medium=Update_MyEUR_ENG&utm_campaign=Update_EUR_medewerkers&check_logged_in=1){target="_blank"} and follow in-class announcements! 
+
+- **Week One Quiz** $\rightarrow$ start/deadline will likely be postponed until either (i) access to Canvas is restored or (ii) a secure alternative emerges. In any case, I will communicate before sending something online: **monitor your EUR inboxes, including MS Teams!** 
+
+:::
+
+::: {.card}
+## Week One S1: Kickoff and Introduction to Complex Deals
 
 You can download the slides as HTML and PDF. Note that slides in PDF format often lose some features (e.g., embedded tabs, videos, etc.) and are thus not the preferred format. 
 
@@ -117,6 +126,11 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 - **Slides: Transactions** [HTML](/courses/54132/files/intro_transactions.html){target="_blank"} and [PDF](/courses/54132/files/intro_transactions.pdf){target="_blank"} & **FAQ** on Reading [Organizational Charts](/courses/54132/files/orga_chart.html){target="_blank"}
 
 - **Slides: Governance** [HTML](/courses/54132/files/intro_governance.html){target="_blank"} and [PDF](/courses/54132/files/intro_governance.pdf){target="_blank"}
+
+:::
+
+::: {.card}
+## Week One S2: Target Selection 
 
 :::
 
