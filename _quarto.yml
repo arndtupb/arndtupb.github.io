@@ -3,13 +3,16 @@ project:
   output-dir: .
   render:
     - index.qmd
-    - add_content.qmd
+    - assessment_rubric.qmd
 
 website:
   navbar:
+    left:
+      - text: "Course Home"
+        href: index.html
     right:
-      - text: "Additional Content"
-        href: add_content.html
+      - text: "Assessment Rubric"
+        href: assessment_rubric.html
 
 format:
   html:

@@ -103,7 +103,7 @@ Check [timetables.eur.nl](https://timetables.eur.nl/link?timetables.0.key=BMME30
 
 - Note that you must pass all assessment elements in order to pass the course. No carry-overs!   
 
-- Expectations? Check the [assessment rubric](/courses/54132/files/page_rubric.html){target="_blank"} for detailed descriptions of expected performance at each level (Beginner, Developing, Accomplished, Exemplary) for every course learning goal
+- Expectations? Check the [assessment rubric](/assessment_rubric.html){target="_blank"} for detailed descriptions of expected performance at each level (Beginner, Developing, Accomplished, Exemplary) for every course learning goal
 
 :::
 
