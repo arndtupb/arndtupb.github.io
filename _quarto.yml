@@ -3,6 +3,13 @@ project:
   output-dir: .
   render:
     - index.qmd
+    - add_content.qmd
+
+website:
+  navbar:
+    right:
+      - text: "Additional Content"
+        href: add_content.html
 
 format:
   html:
