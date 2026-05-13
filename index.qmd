@@ -139,7 +139,7 @@ $\Rightarrow$ this (short lived) bid is a great example for accounting, analysis
 
 
 ::: {.card}
-## Week One S1: Kickoff and Introduction to Complex Deals
+## Kickoff and Introduction to Complex Deals (Week One S1)
 
 You can download the slides as HTML and PDF. Note that slides in PDF format often lose some features (e.g., embedded tabs, videos, etc.) and are thus not the preferred format. 
 
@@ -152,7 +152,17 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 :::
 
 ::: {.card}
-## Week One S2: Target Selection 
+## Target Selection (Week One S2)
+
+- We translate acquisition strategy into practical target-screening criteria 
+
+- We connect value-creating archetypes to measurable financial indicators
+
+- We discuss information asymmetry and governance risks in early target selection
+
+- The OpenAI-Windsurf case is used as a stylized application of the screening framework
+
+- **Slides Target Selection** in [HTML](/courses/54132/files/target_identification.html){target="_blank"} and [PDF](/courses/54132/files/target_identification.pdf){target="_blank"} 
 
 :::
 
