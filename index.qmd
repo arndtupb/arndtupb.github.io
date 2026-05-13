@@ -28,11 +28,6 @@ bibliography: references.bib
 
 Last Update: `r format(Sys.Date(), "%B %d")`
 
-::: lead
-With Canvas at EUR currentyl not available, we will use this page to share *some* important information on the course, including the slides and other materials. Please check this page regularly for updates and announcements.
-
-:::
-
 
 ::: {.container}
 ::: {.card}
@@ -110,11 +105,38 @@ Check [timetables.eur.nl](https://timetables.eur.nl/link?timetables.0.key=BMME30
 ::: {.card}
 ## [Canvas]{.bg}
 
-- [**Canvas is currently unavailable at EUR**]{.fg} $\rightarrow$ see this live update blog by [EUR IT](https://my.eur.nl/en/eur-employee/news/update-ms-teams-and-ans-are-being-made-available-alternatives-canvas?utm_source=Update_11_mei_2026&utm_medium=Update_MyEUR_ENG&utm_campaign=Update_EUR_medewerkers&check_logged_in=1){target="_blank"} and follow in-class announcements! 
+- Canvas is back online after a week of downtime due to a cyber attack at the software provider ([EUR Update Blog](https://my.eur.nl/en/eur-employee/news/update-may-12-canvas-will-be-available-again-tomorrow){target="_blank"})
 
-- **Week One Quiz** $\rightarrow$ start/deadline will likely be postponed until either (i) access to Canvas is restored or (ii) a secure alternative emerges. In any case, I will communicate before sending something online: **monitor your EUR inboxes, including MS Teams!** 
+- I will continue to use [arndtupb.github.io](https://arndtupb.github.io){target="_blank"} as an alternative platform to share *some* important information and materials with you in case we loose access again
+
+- [**Week 1 Quiz**]{.bg}
+    - Goes online no later than May/15
+
+    - [**Deadline to complete 20 multiple choice questions is May/18 at 11:59 PM**]{.fg} (Rotterdam Time)
+    
+    - Let's walk through more details at the [deadline vault](https://canvas.eur.nl/courses/54132/pages/01b-deadline-vault){target="_blank"}
 
 :::
+
+
+::: {.card}
+## GameStop's Push to Acquire eBay
+
+- On May/4, Gamestop's CEO, Ryan Cohen, expressed interest in acquiring eBay: a move that surprised many given the companies' different business models and market positions
+
+- The next day, he gave an interview to CNBC which earned him the headline ***"GameStop’s Ryan Cohen is either the new Buffett or the anti-Buffett"*** [FT](https://www.ft.com/content/a18c4115-7178-456c-a7ff-4b0e7f9ec9aa?syn-25a6b1a6=1){target="_blank"} 
+
+$\Rightarrow$ Watch the video on [Youtube](https://www.youtube.com/watch?v=Bmj2PaxX24E){target="_blank"}!  
+
+- eBay rejected the bid, calling the offer *"neither credible nor attractive"* [NYT](https://www.nytimes.com/2026/05/12/business/ebay-gamestop-takeover.html?nl=dealbook&segment_id=219724{target="_blank"}) & [8K Filing](https://www.sec.gov/Archives/edgar/data/1065088/000155278126000322/e26249_ebay-8k.htm){target="_blank"} & [eBay Letter](https://www.sec.gov/Archives/edgar/data/1065088/000155278126000322/e26249_ex99-2.htm){target="_blank"}
+
+- See this [FT Summary](https://ask.ft.com/answer/ccdffdbb-fd19-4870-ba54-c46dba6150d2){target="_blank"} for more details (updated May/13)
+
+$\Rightarrow$ this (short lived) bid is a great example for accounting, analysis, and governance in complex deals, and we will refer to it throughout the course! Familiarize yourself with the case! 
+
+::::
+
+
 
 ::: {.card}
 ## Week One S1: Kickoff and Introduction to Complex Deals
