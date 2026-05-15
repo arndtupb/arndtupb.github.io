@@ -102,22 +102,6 @@ Check [timetables.eur.nl](https://timetables.eur.nl/link?timetables.0.key=BMME30
 
 :::
 
-::: {.card}
-## [Canvas]{.bg}
-
-- Canvas is back online after a week of downtime due to a cyber attack at the software provider ([EUR Update Blog](https://my.eur.nl/en/eur-employee/news/update-may-12-canvas-will-be-available-again-tomorrow){target="_blank"})
-
-- I will continue to use [arndtupb.github.io](https://arndtupb.github.io){target="_blank"} as an alternative platform to share *some* important information and materials with you in case we loose access again
-
-- [**Week 1 Quiz**]{.bg}
-    - Goes online no later than May/15
-
-    - [**Deadline to complete 20 multiple choice questions is May/18 at 11:59 PM**]{.fg} (Rotterdam Time)
-    
-    - Let's walk through more details at the [deadline vault](https://canvas.eur.nl/courses/54132/pages/01b-deadline-vault){target="_blank"}
-
-:::
-
 
 ::: {.card}
 ## GameStop's Push to Acquire eBay
@@ -185,6 +169,20 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 
 :::
 
+
+
+::: {.card}
+## Canvas
+
+- Canvas is back online after a week of downtime due to a cyber attack at the software provider 
+
+- I will continue to use [arndtupb.github.io](https://arndtupb.github.io){target="_blank"} as an additional platform to share *some* important information and materials with you in case we loose access again
+
+- Make sure to **bookmark** this site and additional electronic resources available.
+
+- **Download important materials regularly** to avoid being sidelined by technical issues. 
+
+:::
 
 <hr />
 
