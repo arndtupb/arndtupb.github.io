@@ -54,7 +54,7 @@ This course integrates accounting, financial analysis, and governance, providing
 
 
 ::: {.card}
-## Course Instructor</span>
+## Course Instructor
 
 **Arndt Weinrich** | Assistant Professor of Accounting | [weinrich@rsm.nl](mailto:weinrich@rsm.nl) | [RSM website](https://www.rsm.nl/people/arndt-weinrich/){target="_blank"}
 
@@ -106,17 +106,17 @@ Check [timetables.eur.nl](https://timetables.eur.nl/link?timetables.0.key=BMME30
 ::: {.card}
 ## GameStop's Push to Acquire eBay
 
-- On May/4, Gamestop's CEO, Ryan Cohen, expressed interest in acquiring eBay: a move that surprised many given the companies' different business models and market positions
+- On May 4, Gamestop's CEO, Ryan Cohen, expressed interest in acquiring eBay: a move that surprised many given the companies' different business models and market positions
 
 - The next day, he gave an interview to CNBC which earned him the headline ***"GameStop’s Ryan Cohen is either the new Buffett or the anti-Buffett"*** [FT](https://www.ft.com/content/a18c4115-7178-456c-a7ff-4b0e7f9ec9aa?syn-25a6b1a6=1){target="_blank"} 
 
 $\Rightarrow$ Watch the video on [Youtube](https://www.youtube.com/watch?v=Bmj2PaxX24E){target="_blank"}!  
 
-- eBay rejected the bid, calling the offer *"neither credible nor attractive"* [NYT](https://www.nytimes.com/2026/05/12/business/ebay-gamestop-takeover.html?nl=dealbook&segment_id=219724{target="_blank"}) & [8K Filing](https://www.sec.gov/Archives/edgar/data/1065088/000155278126000322/e26249_ebay-8k.htm){target="_blank"} & [eBay Letter](https://www.sec.gov/Archives/edgar/data/1065088/000155278126000322/e26249_ex99-2.htm){target="_blank"}
+- eBay rejected the bid, calling the offer *"neither credible nor attractive"* [NYT](https://www.nytimes.com/2026/05/12/business/ebay-gamestop-takeover.html?nl=dealbook&segment_id=219724){target="_blank"} & [8K Filing](https://www.sec.gov/Archives/edgar/data/1065088/000155278126000322/e26249_ebay-8k.htm){target="_blank"} & [eBay Letter](https://www.sec.gov/Archives/edgar/data/1065088/000155278126000322/e26249_ex99-2.htm){target="_blank"}
 
-- See this [FT Summary](https://ask.ft.com/answer/ccdffdbb-fd19-4870-ba54-c46dba6150d2){target="_blank"} for more details (updated May/13)
+- See this [FT Summary](https://ask.ft.com/answer/ccdffdbb-fd19-4870-ba54-c46dba6150d2){target="_blank"} for more details (updated May 13)
 
-$\Rightarrow$ this (short lived) bid is a great example for accounting, analysis, and governance in complex deals, and we will refer to it throughout the course! Familiarize yourself with the case! 
+$\Rightarrow$ This (short-lived) bid is a great example for accounting, analysis, and governance in complex deals, and we will refer to it throughout the course. Familiarize yourself with the case!
 
 ::::
 
@@ -133,20 +133,47 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 
 - **Slides: Governance** [HTML](/courses/54132/files/intro_governance.html){target="_blank"} and [PDF](/courses/54132/files/intro_governance.pdf){target="_blank"}
 
+- **Key Reference** beyond text books: @cain2016ceo (CEO personal risk-taking and corporate policies) 
+
 :::
 
 ::: {.card}
 ## Target Selection (Week One S2)
 
-- We translate acquisition strategy into practical target-screening criteria 
+- Translate acquisition **strategy** into practical **target-screening** criteria 
 
-- We connect value-creating archetypes to measurable financial indicators
+- Connect **value-creating archetypes** to measurable financial indicators
 
-- We discuss information asymmetry and governance risks in early target selection
+- Discuss **information asymmetry** and governance risks in early target selection
 
-- The OpenAI-Windsurf case is used as a stylized application of the screening framework
+- The **OpenAI-Windsurf** case is used as a stylized application of the screening framework
 
 - **Slides Target Selection** in [HTML](/courses/54132/files/target_identification.html){target="_blank"} and [PDF](/courses/54132/files/target_identification.pdf){target="_blank"} 
+
+- **Key References** beyond text books: @dessaint2017employment, @chen2018financial, @cai2016common (corporate governance and acquisition activity/synergies)
+
+:::
+
+
+::: {.card}
+
+## Cross Border Issues (Week Two S1)
+
+- Connect foreign market entry **motives** and strategy choices to practical deal execution challenges
+
+- Discuss failure risk in cross-border integration, using **Daimler-Chrysler** as a stylized case
+
+- Apply **interest rate parity** to convert foreign target cash flows into domestic valuation inputs
+
+- Evaluate **policy uncertainty** and tariffs as external drivers of cross-border deals
+
+- **Slides Cross Border Issues** *to be released* <!--- in [HTML](/courses/54132/files/cross_border_issues.html){target="_blank"} and [PDF](/courses/54132/files/cross_border_issues.pdf){target="_blank"} -->
+
+- **Key References** beyond text books: 
+  - @ErelNBERw30597 (cross-border M&A motives)
+  - @bonaime2018does (policy uncertainty and M&A activity)
+  - @seru2014firm (innovation consequences in merger contexts)
+  - @baker2016measuring (measurement of economic policy uncertainty)
 
 :::
 
@@ -154,7 +181,7 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 ::: {.card}
 ## Literature 
 
-- While there is no single literature source for the course, the following books are used as key reference materials:
+- While there is no single literature source for the course, the following books ("text books" above) are used as key reference materials:
 
   - @depamphilis2021mergers covers a wide range of topics (2019 version electronically available at [EUR](https://eur.on.worldcat.org/oclc/1124929442){target="_blank"})
 
@@ -174,9 +201,9 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 ::: {.card}
 ## Canvas
 
-- Canvas is back online after a week of downtime due to a cyber attack at the software provider 
+- Canvas is currently online after a week of downtime due to a cyber attack at the software provider 
 
-- I will continue to use [arndtupb.github.io](https://arndtupb.github.io){target="_blank"} as an additional platform to share *some* important information and materials with you in case we loose access again
+- I will continue to use [arndtupb.github.io](https://arndtupb.github.io){target="_blank"} as an additional platform to share *some* important information and materials with you in case we lose access again
 
 - Make sure to **bookmark** this site and additional electronic resources available.
 
