@@ -167,7 +167,7 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 
 - Evaluate **policy uncertainty** and tariffs as external drivers of cross-border deals
 
-- **Slides Cross Border Issues** in [HTML](/courses/54132/files/cross_border_issues.html){target="_blank"} and [PDF](/courses/54132/files/cross_border_issues.pdf){target="_blank"} (pre-class versions, check back for updates)
+- **Slides Cross Border Issues** in [HTML](/courses/54132/files/cross_border_issues.html){target="_blank"} and [PDF](/courses/54132/files/cross_border_issues.pdf){target="_blank"} 
 
 - **Key References** beyond text books: 
   - @ErelNBERw30597 (cross-border M&A motives)
