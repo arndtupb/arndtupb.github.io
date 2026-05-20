@@ -179,6 +179,36 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 
 
 ::: {.card}
+
+## Valuation and Pricing (Week Two S2)
+
+- Understand how boards use fairness opinions to support **fiduciary duties**
+
+- Assess limitations and potential **biases in fairness opinion** design and interpretation
+
+- Reconcile fundamental and relative valuation approaches, and understand when they **converge**
+
+- Evaluate valuation sensitivity to risk, profitability, growth assumptions, and accounting choices
+
+- Distinguish and apply **equity-side and enterprise-side valuation multiples** in deal analysis
+
+- **Slides** *to be released* <!--- in [HTML](/courses/54132/files/cross_border_issues.html){target="_blank"} and [PDF](/courses/54132/files/cross_border_issues.pdf){target="_blank"} --->
+
+- **Key References**: 
+  
+  - Fairness Opinions: 
+    - @imperatore2024litigation (litigation risk and strategic target valuation in fairness opinions)
+
+  - Measuring Value:  
+    - @depamphilis2021mergers (Chapter 8: valuation and pricing in M&amp;A)
+    - @koller2010valuation (several chapters on valuation framework, multiples, and value drivers)
+    - @shaffer2024multiples (conceptual scheme and interpretation of multiples)
+
+
+:::
+
+
+::: {.card}
 ## Literature 
 
 - While there is no single literature source for the course, the following books ("text books" above) are used as key reference materials:
