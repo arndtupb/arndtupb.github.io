@@ -192,9 +192,9 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 
 - Distinguish and apply **equity-side and enterprise-side valuation multiples** in deal analysis
 
-- **Slides Fairness Opinions** in [HTML](/courses/54132/files/fairness_opinions.html){target="_blank"} and [PDF](/courses/54132/files/fairness_opinions.pdf){target="_blank"} 
+- **Slides Fairness Opinions** in [HTML](/courses/54132/files/fairnessopinion.html){target="_blank"} and [PDF](/courses/54132/files/fairnessopinion.pdf){target="_blank"} 
 
-- **Slides Measuring Value** in [HTML](/courses/54132/files/value_measure.html.html){target="_blank"} and [PDF](/courses/54132/files/value_measure.pdf.pdf){target="_blank"} 
+- **Slides Measuring Value** in [HTML](/courses/54132/files/value_measure.html){target="_blank"} and [PDF](/courses/54132/files/value_measure.pdf){target="_blank"} 
 
 - **Key References**: 
   
