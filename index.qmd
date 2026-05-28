@@ -108,13 +108,11 @@ Check [timetables.eur.nl](https://timetables.eur.nl/link?timetables.0.key=BMME30
 
 - On May 4, Gamestop's CEO, Ryan Cohen, expressed interest in acquiring eBay: a move that surprised many given the companies' different business models and market positions
 
-- The next day, he gave an interview to CNBC which earned him the headline ***"GameStop’s Ryan Cohen is either the new Buffett or the anti-Buffett"*** [FT](https://www.ft.com/content/a18c4115-7178-456c-a7ff-4b0e7f9ec9aa?syn-25a6b1a6=1){target="_blank"} 
-
-$\Rightarrow$ Watch the video on [Youtube](https://www.youtube.com/watch?v=Bmj2PaxX24E){target="_blank"}!  
+- The next day, he gave an interview to CNBC which earned him the headline ***"GameStop’s Ryan Cohen is either the new Buffett or the anti-Buffett"*** [FT](https://www.ft.com/content/a18c4115-7178-456c-a7ff-4b0e7f9ec9aa?syn-25a6b1a6=1){target="_blank"}  
 
 - eBay rejected the bid, calling the offer *"neither credible nor attractive"* [NYT](https://www.nytimes.com/2026/05/12/business/ebay-gamestop-takeover.html?nl=dealbook&segment_id=219724){target="_blank"} & [8K Filing](https://www.sec.gov/Archives/edgar/data/1065088/000155278126000322/e26249_ebay-8k.htm){target="_blank"} & [eBay Letter](https://www.sec.gov/Archives/edgar/data/1065088/000155278126000322/e26249_ex99-2.htm){target="_blank"}
 
-- See this [FT Summary](https://ask.ft.com/answer/ccdffdbb-fd19-4870-ba54-c46dba6150d2){target="_blank"} for more details (updated May 13)
+$\Rightarrow$ Watch the video on [Youtube](https://www.youtube.com/watch?v=Bmj2PaxX24E){target="_blank"}!  
 
 $\Rightarrow$ This (short-lived) bid is a great example for accounting, analysis, and governance in complex deals, and we will refer to it throughout the course. Familiarize yourself with the case!
 
@@ -180,7 +178,7 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 
 ::: {.card}
 
-## Valuation and Pricing (Week Two S2)
+## Valuation and Pricing (Week Two S2 & Week Three S1)
 
 - Understand how boards use fairness opinions to support **fiduciary duties**
 
@@ -196,6 +194,8 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 
 - **Slides Measuring Value** in [HTML](/courses/54132/files/value_measure.html){target="_blank"} and [PDF](/courses/54132/files/value_measure.pdf){target="_blank"} 
 
+- **Guest Lecture** by Marc Goedhart from McKinsey & Company on measuring **value of high-growth companies** (Week Three S1) 
+
 - **Key References**: 
   
   - Fairness Opinions: 
@@ -205,6 +205,28 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
     - @depamphilis2021mergers (Chapter 8: valuation and pricing in M&amp;A)
     - @koller2010valuation (several chapters on valuation framework, multiples, and value drivers)
     - @shaffer2024multiples (conceptual scheme and interpretation of multiples)
+
+
+:::
+
+
+::: {.card}
+
+## Paying and Financing an Acquisition (Week Three S2)
+
+- **Payment:** compare cash, stock, and mixed consideration, including **share exchange ratios**, dilution, **collars**, and EPS implications
+
+- **Financing:** evaluate internal funds, debt, seller financing, and sponsor-led buyout structures, including **private equity** and **leveraged buyouts**
+
+- Connect payment and financing choices to risk sharing between bidder and target shareholders
+
+<!--- 
+- **Slides Fairness Opinions** in [HTML](/courses/54132/files/fairnessopinion.html){target="_blank"} and [PDF](/courses/54132/files/fairnessopinion.pdf){target="_blank"} 
+
+- **Slides Measuring Value** in [HTML](/courses/54132/files/value_measure.html){target="_blank"} and [PDF](/courses/54132/files/value_measure.pdf){target="_blank"} 
+--->
+
+- **Key References:** @depamphilis2021mergers (Chapters 11 and 13) and @koller2010valuation (Chapter 31)
 
 
 :::
