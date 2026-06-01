@@ -220,17 +220,43 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 
 - Connect payment and financing choices to risk sharing between bidder and target shareholders
 
-<!--- 
-- **Slides Fairness Opinions** in [HTML](/courses/54132/files/fairnessopinion.html){target="_blank"} and [PDF](/courses/54132/files/fairnessopinion.pdf){target="_blank"} 
+- **Slides Payment** in [HTML](/courses/54132/files/payment.html){target="_blank"} and [PDF](/courses/54132/files/payment.pdf){target="_blank"} 
 
-- **Slides Measuring Value** in [HTML](/courses/54132/files/value_measure.html){target="_blank"} and [PDF](/courses/54132/files/value_measure.pdf){target="_blank"} 
---->
+- **Slides Financing** in [HTML](/courses/54132/files/finance.html){target="_blank"} and [PDF](/courses/54132/files/finance.pdf){target="_blank"} 
+
 
 - **Key References:** @depamphilis2021mergers (Chapters 11 and 13) and @koller2010valuation (Chapter 31)
 
 
 :::
 
+::: {.card}
+
+## Due Diligence (Week Four S1)
+
+- <strong>Transaction risk assessment:</strong> understand how due diligence reduces information asymmetries 
+
+  - <strong>Tax due diligence:</strong> identify historical and future tax exposures and contractual protection mechanisms 
+
+  - <strong>Financial due diligence:</strong> evaluate EBITDA adjustments when assessing the quality of earnings 
+
+- Translate findings into implications for pricing, structure, negotiation, and final deal recommendations 
+
+:::
+
+<!---
+::: {.card}
+
+## Antitrust Issues (Week Four S2)
+
+:::
+
+::: {.card}
+
+## Post-Deal Integration (Week Five S1)
+
+::: 
+--->
 
 ::: {.card}
 ## Literature 
