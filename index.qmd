@@ -242,15 +242,34 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 
 - Translate findings into implications for pricing, structure, negotiation, and final deal recommendations 
 
+- **Slides Due Diligence** in [HTML](/courses/54132/files/due_diligence.html){target="_blank"} and [PDF](/courses/54132/files/due_diligence.pdf){target="_blank"} 
+
+
 :::
 
-<!---
+
 ::: {.card}
 
 ## Antitrust Issues (Week Four S2)
 
+- Analyze existing **antitrust frameworks** across jurisdictions 
+
+- Evaluate how complex deals trigger antitrust concerns and **review** 
+
+- Compare reasoning used in **antitrust debates overt time** 
+
+- Develop **evidence-based case arguments** with clear implications for corporate decision-making
+
+- **Key References** include two Harvard Business School cases:  
+
+  - **Redefining Antitrust in the Age of Big Tech** (324018-PDF-ENG)
+  
+  - **Bayer-Monsanto: The Challenges of a Mega Merger** (W17764-PDF-ENG)
+
+
 :::
 
+<!---
 ::: {.card}
 
 ## Post-Deal Integration (Week Five S1)
