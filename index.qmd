@@ -121,7 +121,7 @@ $\Rightarrow$ This (short-lived) bid is a great example for accounting, analysis
 
 
 ::: {.card}
-## Kickoff and Introduction to Complex Deals (Week One S1)
+## Kickoff and Introduction to Complex Deals  
 
 You can download the slides as HTML and PDF. Note that slides in PDF format often lose some features (e.g., embedded tabs, videos, etc.) and are thus not the preferred format. 
 
@@ -136,7 +136,7 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 :::
 
 ::: {.card}
-## Target Selection (Week One S2)
+## Target Selection  
 
 - Translate acquisition **strategy** into practical **target-screening** criteria 
 
@@ -155,7 +155,7 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 
 ::: {.card}
 
-## Cross Border Issues (Week Two S1)
+## Cross Border Issues  
 
 - Connect foreign market entry **motives** and strategy choices to practical deal execution challenges
 
@@ -178,7 +178,7 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 
 ::: {.card}
 
-## Valuation and Pricing (Week Two S2 & Week Three S1)
+## Valuation and Pricing  
 
 - Understand how boards use fairness opinions to support **fiduciary duties**
 
@@ -212,7 +212,7 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 
 ::: {.card}
 
-## Paying and Financing an Acquisition (Week Three S2)
+## Paying and Financing an Acquisition  
 
 - **Payment:** compare cash, stock, and mixed consideration, including **share exchange ratios**, dilution, **collars**, and EPS implications
 
@@ -232,7 +232,7 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 
 ::: {.card}
 
-## Due Diligence (Week Four S1)
+## Due Diligence  
 
 - <strong>Transaction risk assessment:</strong> understand how due diligence reduces information asymmetries 
 
@@ -250,7 +250,7 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 
 ::: {.card}
 
-## Antitrust Issues (Week Four S2)
+## Antitrust Issues  
 
 - Analyze existing **antitrust frameworks** across jurisdictions 
 
@@ -269,13 +269,41 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 
 :::
 
-<!---
+
+
 ::: {.card}
 
-## Post-Deal Integration (Week Five S1)
+## Post-Merger Integration  
+
+- **Purchase Price Allocation** in Business Combinations (ASC 805)
+
+- **Goodwill and Intangible Asset Accounting** 
+
+- **Consolidation Mechanics** including deferred taxes 
+
+- **Accounting Distortions in Market-Based Valuation** and implications for the diversification discount 
+
+- **Practice Case: e.l.f. Beauty acquisition of rhode** ($896.5M + earnout) as a stylized example spanning purchase price allocation, goodwill recognition, impairment testing, and valuation-multiple distortion
+
+- **Key References** include recent filings at SEC and guidance from professional service firms:
+  - e.l.f. Beauty 
+    - [8-K Announcment](https://www.sec.gov/Archives/edgar/data/1600033/000160003325000013/elf-20250528.htm){target="_blank"} 
+    - [8-K Closing](https://www.sec.gov/Archives/edgar/data/1600033/000160003325000037/elf-20250806.htm){target="_blank"} 
+    - [10-Q with preliminary PPA](https://www.sec.gov/Archives/edgar/data/1600033/000160003325000058/elf-20250930.htm){target="_blank"} 
+    - [10-K 2026](https://www.sec.gov/Archives/edgar/data/1600033/000160003326000020/elf-20260331.htm){target="_blank"}
+  - [Deloitte: Accounting for Business Combinations under US GAAP](https://dart.deloitte.com/USDART/home/codification/broad-transactions/asc805-10/roadmap-business-combinations/chapter-4-recognizing-measuring-identifiable-assets/4-10-intangible-assets){target="_blank"}
+  - [PwC: Deferred Taxes in Business Combinations](https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/income_taxes/income_taxes__16_US/chapter_10_business__US/104_identify_and_mea_US.html){target="_blank"}
+
+- Additional References:
+  - @flood2021wiley (Chapter 47)
+  - @custodio2014mergers (M&A accounting and the diversification discount)
+  - @stein2003agency (Agency costs in conglomerates) 
+  - @rajan2000cost (Diversification discount and inefficient investment)
+
 
 ::: 
---->
+
+
 
 ::: {.card}
 ## Literature 
