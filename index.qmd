@@ -283,7 +283,9 @@ You can download the slides as HTML and PDF. Note that slides in PDF format ofte
 
 - **Accounting Distortions in Market-Based Valuation** and implications for the diversification discount 
 
-- **Practice Case: e.l.f. Beauty acquisition of rhode** ($896.5M + earnout) as a stylized example spanning purchase price allocation, goodwill recognition, impairment testing, and valuation-multiple distortion
+- **Practice Case: e.l.f. Beauty acquisition of rhode** (USD 890M + earnout) as a stylized example spanning purchase price allocation, goodwill recognition, impairment testing, and valuation-multiple distortion
+
+- **Slides Post-Merger Integration** in [HTML](/courses/54132/files/post_merger_integration.html){target="_blank"} and [PDF](/courses/54132/files/post_merger_integration.pdf){target="_blank"}
 
 - **Key References** include recent filings at SEC and guidance from professional service firms:
   - e.l.f. Beauty 
